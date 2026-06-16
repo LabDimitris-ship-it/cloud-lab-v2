@@ -262,7 +262,7 @@ export default function Home() {
     />
 
     <img
-      src="/images/robotics3.png"
+      src="/images/student-project2.png"
       alt="Robotics"
       className="rounded-3xl shadow-xl w-full h-80 object-cover"
     />
