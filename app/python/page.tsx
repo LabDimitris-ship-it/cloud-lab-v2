@@ -4,7 +4,7 @@ export default function PythonPage() {
 
       {/* HERO */}
       <section className="max-w-7xl mx-auto px-6 py-20">
-        <div className="grid md:grid-cols-2 gap-12 items-center">
+  <div className="max-w-3xl">
 
           <div>
             <span className="text-blue-600 font-bold">
@@ -42,11 +42,7 @@ export default function PythonPage() {
             </div>
           </div>
 
-          <img
-            src="/images/programming1.jpg"
-            alt="Python Lessons"
-            className="rounded-3xl shadow-xl w-full"
-          />
+  
         </div>
       </section>
 
