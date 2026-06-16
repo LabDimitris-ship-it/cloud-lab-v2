@@ -189,7 +189,7 @@ export default function Home() {
   <div className="grid md:grid-cols-2 gap-8">
 
     <Image
-      src="/images/lego-wedo1.png"
+      src="/images/robotics1.webp"
       alt="LEGO Robot"
       width={700}
       height={500}
@@ -197,7 +197,7 @@ export default function Home() {
     />
 
     <Image
-      src="/images/lego-wedo2.jpeg"
+      src="/images/robotics2.jpeg"
       alt="LEGO Car"
       width={700}
       height={500}
@@ -211,7 +211,7 @@ export default function Home() {
 <section className="max-w-7xl mx-auto px-6 pb-24">
 
   <h2 className="text-4xl font-bold text-center mb-12">
-    Γιατί να επιλέξετε Cloud Lab;
+    Γιατί να επιλέξετε την ρομποτική στο Καλο μελέτα ;
   </h2>
 
   <div className="grid md:grid-cols-4 gap-8">
