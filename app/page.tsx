@@ -34,14 +34,20 @@ export default function Home() {
               </p>
 
               <div className="flex gap-4 mt-8">
-                <button className="bg-blue-600 text-white px-8 py-4 rounded-xl">
-                  Μαθήματα
-                </button>
+  <a
+    href="/robotics"
+    className="bg-blue-600 text-white px-8 py-4 rounded-xl inline-block"
+  >
+    Μαθήματα
+  </a>
 
-                <button className="border border-slate-300 px-8 py-4 rounded-xl">
-                  Δραστηριότητες
-                </button>
-              </div>
+  <a
+    href="/gallery"
+    className="border border-slate-300 px-8 py-4 rounded-xl inline-block"
+  >
+    Gallery
+  </a>
+</div>
             </div>
 
             {/* RIGHT */}
