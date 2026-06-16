@@ -12,8 +12,9 @@ export default function Navbar() {
           <a href="/activities">Δραστηριότητες</a>
           <a href="/gallery">Gallery</a>
           <a href="/services">Υπηρεσίες</a>
-          <a href="/contact">Επικοινωνία</a>
           <a href="/python">Python</a>
+          <a href="/contact">Επικοινωνία</a>
+          
         </div>
       </div>
     </nav>
