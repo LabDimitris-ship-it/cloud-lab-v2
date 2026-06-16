@@ -1,4 +1,3 @@
-
 export default function Navbar() {
   return (
     <nav className="w-full border-b bg-white">
@@ -12,7 +11,7 @@ export default function Navbar() {
           <a href="/robotics">Ρομποτική</a>
           <a href="/activities">Δραστηριότητες</a>
           <a href="/gallery">Gallery</a>
-          <a href="/gallery"> Υπηρεσίες</a>
+          <a href="/services">Υπηρεσίες</a>
           <a href="/contact">Επικοινωνία</a>
         </div>
       </div>
