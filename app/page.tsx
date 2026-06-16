@@ -268,7 +268,7 @@ export default function Home() {
     />
 
     <img
-     src="/images/robotics3.png"
+     src="/images/robotics3.jpg"
       alt="Robotics"
       className="rounded-3xl shadow-xl w-full h-80 object-cover"
     />
