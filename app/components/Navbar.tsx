@@ -12,6 +12,7 @@ export default function Navbar() {
           <a href="/robotics">Ρομποτική</a>
           <a href="/activities">Δραστηριότητες</a>
           <a href="/gallery">Gallery</a>
+          <a href="/gallery"> Υπηρεσίες</a>
           <a href="/contact">Επικοινωνία</a>
         </div>
       </div>

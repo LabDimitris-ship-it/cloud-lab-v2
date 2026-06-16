@@ -179,34 +179,7 @@ export default function Home() {
   </div>
 
 </section>
-{/* GALLERY */}
-<section className="max-w-7xl mx-auto px-6 pb-24">
 
-  <h2 className="text-4xl font-bold text-center mb-12">
-    Στιγμές από τα Μαθήματα
-  </h2>
-
-  <div className="grid md:grid-cols-2 gap-8">
-
-    <Image
-      src="/images/robotics1.webp"
-      alt="LEGO Robot"
-      width={700}
-      height={500}
-      className="rounded-3xl shadow-lg w-full h-auto"
-    />
-
-    <Image
-      src="/images/robotics2.jpeg"
-      alt="LEGO Car"
-      width={700}
-      height={500}
-      className="rounded-3xl shadow-lg w-full h-auto"
-    />
-
-  </div>
-
-</section>
 {/* ΓΙΑΤΙ CLOUD LAB */}
 <section className="max-w-7xl mx-auto px-6 pb-24">
 
@@ -269,54 +242,7 @@ export default function Home() {
 </section>
 
 
-{/* ΨΗΦΙΑΚΕΣ ΥΠΗΡΕΣΙΕΣ */}
-<section className="max-w-7xl mx-auto px-6 py-24">
 
-  <h2 className="text-4xl font-bold text-center mb-12">
-    Ψηφιακές Υπηρεσίες
-  </h2>
-
-  <div className="grid md:grid-cols-3 gap-8">
-
-    <div className="bg-white p-8 rounded-3xl shadow">
-      <div className="text-5xl mb-4">🌐</div>
-
-      <h3 className="text-2xl font-bold">
-        Websites
-      </h3>
-
-      <p className="text-slate-600 mt-4">
-        Σύγχρονες ιστοσελίδες για επαγγελματίες,
-        επιχειρήσεις και οργανισμούς.
-      </p>
-    </div>
-
-    <div className="bg-white p-8 rounded-3xl shadow">
-      <div className="text-5xl mb-4">⚡</div>
-
-      <h3 className="text-2xl font-bold">
-        Web Applications
-      </h3>
-
-      <p className="text-slate-600 mt-4">
-        Custom εφαρμογές με React και Next.js.
-      </p>
-    </div>
-
-    <div className="bg-white p-8 rounded-3xl shadow">
-      <div className="text-5xl mb-4">☁️</div>
-
-      <h3 className="text-2xl font-bold">
-        Cloud Solutions
-      </h3>
-
-      <p className="text-slate-600 mt-4">
-        Hosting, αυτοματισμοί και cloud υπηρεσίες.
-      </p>
-    </div>
-
-  </div>
-  </section>
 
 {/* GALLERY ΡΟΜΠΟΤΙΚΗΣ */}
 <section className="max-w-7xl mx-auto px-6 py-24">
@@ -355,86 +281,7 @@ export default function Home() {
 </section>
 
 
-        {/* ΨΗΦΙΑΚΕΣ ΥΠΗΡΕΣΙΕΣ */}
-<section className="max-w-7xl mx-auto px-6 py-24">
-  <h2 className="text-4xl font-bold text-center mb-12">
-    Ψηφιακές Υπηρεσίες
-  </h2>
-
-  <div className="grid md:grid-cols-3 gap-8">
-
-    <div className="bg-white p-8 rounded-3xl shadow">
-      <div className="text-5xl mb-4">🌐</div>
-      <h3 className="text-2xl font-bold">Websites</h3>
-      <p className="text-slate-600 mt-4">
-        Σύγχρονες ιστοσελίδες για επαγγελματίες,
-        επιχειρήσεις και οργανισμούς.
-      </p>
-    </div>
-
-    <div className="bg-white p-8 rounded-3xl shadow">
-      <div className="text-5xl mb-4">⚙️</div>
-      <h3 className="text-2xl font-bold">Web Applications</h3>
-      <p className="text-slate-600 mt-4">
-        Custom εφαρμογές με React και Next.js.
-      </p>
-    </div>
-
-    <div className="bg-white p-8 rounded-3xl shadow">
-      <div className="text-5xl mb-4">☁️</div>
-      <h3 className="text-2xl font-bold">Cloud Solutions</h3>
-      <p className="text-slate-600 mt-4">
-        Hosting, αυτοματισμοί και cloud υπηρεσίες.
-      </p>
-    </div>
-
-  </div>
-</section>
-
-
-  
-  <section className="max-w-7xl mx-auto px-6 py-24">
-
-  <h2 className="text-5xl font-bold text-center mb-6">
-    Portfolio
-  </h2>
-
-  <p className="text-center text-slate-600 text-xl mb-16">
-    Πρόσφατα έργα και ιστοσελίδες που έχω αναπτύξει.
-  </p>
-
-  <div className="bg-white rounded-3xl shadow-xl overflow-hidden">
-
-    <Image
-      src="/images/alexandris-site.png"
-      alt="Alexandris Construction"
-      width={1200}
-      height={700}
-      className="w-full"
-    />
-
-    <div className="p-10">
-      <h3 className="text-3xl font-bold">
-        Alexandris Construction
-      </h3>
-
-      <p className="mt-4 text-slate-600 text-lg">
-        Εταιρική ιστοσελίδα για κατασκευαστική εταιρεία.
-      </p>
-
-      <a
-        href="https://www.alexandrisconstruction.com"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-block mt-6 bg-blue-600 text-white px-8 py-4 rounded-xl font-bold"
-      >
-        🌐 Δείτε το Website
-      </a>
-    </div>
-
-  </div>
-
-</section>
+       
 
     
        {/* ΕΠΙΚΟΙΝΩΝΙΑ */}
