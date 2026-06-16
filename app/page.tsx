@@ -241,9 +241,6 @@ export default function Home() {
 
 </section>
 
-
-
-
 {/* GALLERY ΡΟΜΠΟΤΙΚΗΣ */}
 <section className="max-w-7xl mx-auto px-6 py-24">
 
@@ -265,7 +262,7 @@ export default function Home() {
     />
 
     <img
-      src="/images/robotics3.jpg"
+      src="/images/robotics3.png"
       alt="Robotics"
       className="rounded-3xl shadow-xl w-full h-80 object-cover"
     />
@@ -278,12 +275,7 @@ export default function Home() {
 
   </div>
 
-</section>
-
-
-       
-
-    
+</section> 
        {/* ΕΠΙΚΟΙΝΩΝΙΑ */}
 <section className="max-w-5xl mx-auto px-6 pb-24">
 
