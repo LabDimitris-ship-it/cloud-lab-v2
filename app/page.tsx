@@ -317,48 +317,7 @@ export default function Home() {
 
   </div>
   </section>
-{/* PORTFOLIO */}
-<section className="max-w-7xl mx-auto px-6 py-24">
-  <h2 className="text-5xl font-bold text-center mb-6">
-    Portfolio
-  </h2>
 
-  <p className="text-center text-slate-600 text-xl mb-16">
-    Δείγματα ιστοσελίδων και ψηφιακών έργων που έχω σχεδιάσει και αναπτύξει.
-  </p>
-
-  <div className="bg-white rounded-3xl shadow-xl overflow-hidden">
-    
-    <img
-      src="/images/alexandris-site.png"
-      alt="Alexandris Construction"
-      className="w-full"
-    />
-
-    <div className="p-10">
-      <h3 className="text-3xl font-bold">
-        Alexandris Construction
-      </h3>
-
-      <p className="mt-4 text-slate-600 text-lg">
-        Σύγχρονη επαγγελματική ιστοσελίδα για κατασκευαστική εταιρεία,
-        με responsive σχεδιασμό, παρουσίαση έργων και εταιρική ταυτότητα.
-      </p>
-
-      <div className="mt-8">
-        <a
-          href="https://www.alexandrisconstruction.com"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="bg-blue-600 text-white px-8 py-4 rounded-xl font-bold inline-block"
-        >
-          Επίσκεψη Ιστοσελίδας →
-        </a>
-      </div>
-    </div>
-
-  </div>
-</section>
 {/* GALLERY ΡΟΜΠΟΤΙΚΗΣ */}
 <section className="max-w-7xl mx-auto px-6 py-24">
 
